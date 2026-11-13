@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="there is a wallet with a balance. that is the roadmap.">
+<rect width="1200" height="150" rx="14" fill="#0b0c0a"/>
+<rect x="0.5" y="0.5" width="1199" height="149" rx="14" fill="none" stroke="#262a22"/>
+<line x1="60" y1="52" x2="1140" y2="52" stroke="#4a4d45" stroke-width="2" stroke-linecap="round"/>
+<text x="600" y="104" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="19" letter-spacing="3" fill="#8b9282">there is a wallet with a balance.  that is the roadmap.</text>
+</svg>
