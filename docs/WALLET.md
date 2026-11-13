@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="../assets/doc-wallet.svg" alt="wallet" width="100%">
-</p>
+# wallet
 
 This is the design of the only input sprout has. No implementation is published in this repository.
 

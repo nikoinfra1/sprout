@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="../assets/doc-archive.svg" alt="archive" width="100%">
-</p>
+# archive
 
 This is the design of sprout's memory of itself. No implementation is published in this repository.
 

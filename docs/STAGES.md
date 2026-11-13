@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="../assets/doc-stages.svg" alt="stages" width="100%">
-</p>
+# stages
 
 This is the design of a growth path. No implementation is published in this repository.
 

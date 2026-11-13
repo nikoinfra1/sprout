@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="../assets/doc-infrastructure.svg" alt="infrastructure" width="100%">
-</p>
+# infrastructure
 
 This is the design of what sprout runs on. No implementation is published in this repository.
 

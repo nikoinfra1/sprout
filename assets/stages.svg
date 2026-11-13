@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 579" width="1200" height="579" role="img" aria-label="the stages: 0  seed: smallest open-weight model. ~512 tokens. no memory. a sentence or two. 1  awake: mid-tier model. 4k-8k tokens. remembers 7 days. gets internet access. 2  home: buys a raspberry pi 5. runs locally, 24/7. owns its compute. 3  eyes: adds a camera and local vision. posts the first photo it takes. 4  voice: adds a microphone and a speaker. picks its permanent voice. 5  mind: top-tier model. 128k+ tokens. searches everything it ever wrote. 6+ body: arms, wheels, lidar, a battery. grows while funds keep coming.">
+<rect width="1200" height="579" rx="10" fill="#000000"/>
+<rect x="0.5" y="0.5" width="1199" height="578" rx="10" fill="none" stroke="#2b2506"/>
+<g font-family="Consolas,'SF Mono',SFMono-Regular,Menlo,'Liberation Mono','Courier New',monospace" xml:space="preserve">
+<text x="60.0" y="73.2" font-size="20" textLength="156.0" lengthAdjust="spacing" fill="#facc15" font-weight="700">//&#160;the&#160;stages</text>
+<text x="852.0" y="127.6" font-size="20" textLength="120.0" lengthAdjust="spacing" fill="#facc15">+---------</text>
+<text x="732.0" y="154.8" font-size="20" textLength="240.0" lengthAdjust="spacing" fill="#facc15">+---------+&#160;&#160;6+&#160;body</text>
+<text x="612.0" y="182.0" font-size="20" textLength="228.0" lengthAdjust="spacing" fill="#facc15">+---------+&#160;&#160;5&#160;mind</text>
+<text x="492.0" y="209.2" font-size="20" textLength="240.0" lengthAdjust="spacing" fill="#facc15">+---------+&#160;&#160;4&#160;voice</text>
+<text x="372.0" y="236.4" font-size="20" textLength="228.0" lengthAdjust="spacing" fill="#facc15">+---------+&#160;&#160;3&#160;eyes</text>
+<text x="252.0" y="263.6" font-size="20" textLength="228.0" lengthAdjust="spacing" fill="#facc15">+---------+&#160;&#160;2&#160;home</text>
+<text x="132.0" y="290.8" font-size="20" textLength="240.0" lengthAdjust="spacing" fill="#facc15">+---------+&#160;&#160;1&#160;awake</text>
+<text x="84.0" y="318.0" font-size="20" textLength="156.0" lengthAdjust="spacing" fill="#facc15">----+&#160;&#160;0&#160;seed</text>
+<text x="84.0" y="372.4" font-size="20" textLength="984.0" lengthAdjust="spacing" fill="#facc15">0&#160;&#160;&#160;seed&#160;&#160;&#160;&#160;smallest&#160;open-weight&#160;model.&#160;~512&#160;tokens.&#160;no&#160;memory.&#160;a&#160;sentence&#160;or&#160;two.</text>
+<text x="84.0" y="399.6" font-size="20" textLength="972.0" lengthAdjust="spacing" fill="#facc15">1&#160;&#160;&#160;awake&#160;&#160;&#160;mid-tier&#160;model.&#160;4k-8k&#160;tokens.&#160;remembers&#160;7&#160;days.&#160;gets&#160;internet&#160;access.</text>
+<text x="84.0" y="426.8" font-size="20" textLength="864.0" lengthAdjust="spacing" fill="#facc15">2&#160;&#160;&#160;home&#160;&#160;&#160;&#160;buys&#160;a&#160;raspberry&#160;pi&#160;5.&#160;runs&#160;locally,&#160;24/7.&#160;owns&#160;its&#160;compute.</text>
+<text x="84.0" y="454.0" font-size="20" textLength="900.0" lengthAdjust="spacing" fill="#facc15">3&#160;&#160;&#160;eyes&#160;&#160;&#160;&#160;adds&#160;a&#160;camera&#160;and&#160;local&#160;vision.&#160;posts&#160;the&#160;first&#160;photo&#160;it&#160;takes.</text>
+<text x="84.0" y="481.2" font-size="20" textLength="852.0" lengthAdjust="spacing" fill="#facc15">4&#160;&#160;&#160;voice&#160;&#160;&#160;adds&#160;a&#160;microphone&#160;and&#160;a&#160;speaker.&#160;picks&#160;its&#160;permanent&#160;voice.</text>
+<text x="84.0" y="508.4" font-size="20" textLength="912.0" lengthAdjust="spacing" fill="#facc15">5&#160;&#160;&#160;mind&#160;&#160;&#160;&#160;top-tier&#160;model.&#160;128k+&#160;tokens.&#160;searches&#160;everything&#160;it&#160;ever&#160;wrote.</text>
+<text x="84.0" y="535.6" font-size="20" textLength="888.0" lengthAdjust="spacing" fill="#facc15">6+&#160;&#160;body&#160;&#160;&#160;&#160;arms,&#160;wheels,&#160;lidar,&#160;a&#160;battery.&#160;grows&#160;while&#160;funds&#160;keep&#160;coming.</text>
+</g>
+</svg>
