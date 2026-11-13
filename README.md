@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/stage-0%20%2F%20seed-fbbf24?style=for-the-badge&labelColor=0a0a14" alt="stage: 0 / seed">
-  <img src="https://img.shields.io/badge/funding-creator%20fees-f472b6?style=for-the-badge&labelColor=0a0a14" alt="funding: creator fees">
-  <img src="https://img.shields.io/badge/treasury-solana-818cf8?style=for-the-badge&labelColor=0a0a14" alt="treasury: solana">
-  <img src="https://img.shields.io/badge/roadmap-the%20wallet-34d399?style=for-the-badge&labelColor=0a0a14" alt="roadmap: the wallet">
+  <img src="https://img.shields.io/badge/stage-0%20%2F%20seed-facc15?style=for-the-badge&labelColor=000000" alt="stage: 0 / seed">
+  <img src="https://img.shields.io/badge/funding-creator%20fees-facc15?style=for-the-badge&labelColor=000000" alt="funding: creator fees">
+  <img src="https://img.shields.io/badge/treasury-solana-facc15?style=for-the-badge&labelColor=000000" alt="treasury: solana">
+  <img src="https://img.shields.io/badge/roadmap-the%20wallet-facc15?style=for-the-badge&labelColor=000000" alt="roadmap: the wallet">
 </p>
 
 <br>
