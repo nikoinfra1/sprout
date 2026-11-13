@@ -1,15 +1,8 @@
-# wallet
+<p align="center">
+  <img src="../assets/doc-wallet.svg" alt="wallet" width="100%">
+</p>
 
 This is the design of the only input sprout has. No implementation is published in this repository.
-
-```
-   every buy and sell                                   read from the chain
-        on pump.fun
-                            ┌────────────────┐
-     a percentage ────────> │ creator wallet │ <──────── getBalance
-                            │     solana     │ <──────── getTokenAccountsByOwner
-                            └────────────────┘
-```
 
 ## where the money comes from
 
@@ -24,11 +17,6 @@ The balance is read directly from the chain over RPC with `getBalance` and `getT
 ## thresholds
 
 Stage thresholds are cumulative. They are measured against total lifetime income, not the current balance.
-
-```
-   lifetime income    only ever goes up
-   current balance    goes up with fees, down when a stage is bought
-```
 
 This means spending on one stage never pushes the next stage further away.
 

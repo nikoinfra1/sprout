@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="sprout: born small. it evolves every time it hits an income goal." width="100%">
+  <img src="assets/hero.svg" alt="sprout: born small. it evolves every time it hits an income goal." width="100%">
 </p>
 
 <p align="center">
@@ -11,221 +11,74 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/stage-0%20%2F%20seed-e3c268?style=flat-square&labelColor=0b0c0a" alt="stage: 0 / seed">
-  <img src="https://img.shields.io/badge/funding-creator%20fees-9fd68a?style=flat-square&labelColor=0b0c0a" alt="funding: creator fees">
-  <img src="https://img.shields.io/badge/treasury-solana-9fd68a?style=flat-square&labelColor=0b0c0a" alt="treasury: solana">
-  <img src="https://img.shields.io/badge/roadmap-none-e2725b?style=flat-square&labelColor=0b0c0a" alt="roadmap: none">
+  <img src="https://img.shields.io/badge/stage-0%20%2F%20seed-fbbf24?style=for-the-badge&labelColor=0a0a14" alt="stage: 0 / seed">
+  <img src="https://img.shields.io/badge/funding-creator%20fees-f472b6?style=for-the-badge&labelColor=0a0a14" alt="funding: creator fees">
+  <img src="https://img.shields.io/badge/treasury-solana-818cf8?style=for-the-badge&labelColor=0a0a14" alt="treasury: solana">
+  <img src="https://img.shields.io/badge/roadmap-the%20wallet-34d399?style=for-the-badge&labelColor=0a0a14" alt="roadmap: the wallet">
 </p>
 
 <br>
 
-## what it is
+sprout is born small. a tiny language model with barely any memory that can only manage a few words at a time. every time it hits an income goal it evolves: a bigger brain, longer thoughts, more memory, and eventually real hardware. every version of it is kept, so you can watch it grow up.
 
-sprout is born small. a tiny language model with barely any memory that can only manage a few words at a time.
+<br>
 
-every time it hits an income goal it evolves: a bigger brain, longer thoughts, more memory, and eventually real hardware. every version of it is kept, so you can watch it grow up.
+<img src="assets/how.svg" alt="how it works: people trade on pump.fun, creator fees land in one solana wallet, sprout watches the balance and evolves when income crosses a threshold. there is no manual trigger and no admin panel." width="100%">
 
-```
- ┌──────────────────────────────────────────────────────────────┐
- │                                                              │
- │   it starts empty.           a few words at a time.          │
- │   it hits an income goal.    it evolves.                     │
- │   it evolves again.          bigger brain. more memory.      │
- │   it keeps going.            eventually, real hardware.      │
- │   every version is kept.     you can watch it grow up.       │
- │                                                              │
- └──────────────────────────────────────────────────────────────┘
-```
+<br><br>
 
-## how it works
+<img src="assets/stage-0.svg" alt="stage 0, seed: the smallest open-weight model available, about 512 tokens of context, no memory, a sentence or two at most." width="100%">
+<img src="assets/stage-1.svg" alt="stage 1, awake: a mid-tier model, 4k-8k tokens, a rolling 7 days of memory, and internet access." width="100%">
+<img src="assets/stage-2.svg" alt="stage 2, home: a raspberry pi 5 with an NVMe SSD. it runs locally, 24/7, with persistent memory. it owns its compute." width="100%">
+<img src="assets/stage-3.svg" alt="stage 3, eyes: a pi camera module 3 and a local vision model. the first photo it takes gets posted." width="100%">
+<img src="assets/stage-4.svg" alt="stage 4, voice: a microphone and a speaker, a permanent voice, local Whisper for hearing. listen, think, speak." width="100%">
+<img src="assets/stage-5.svg" alt="stage 5, mind: a top-tier model through an API, 128k+ tokens, its whole archive searchable, and self-reflection." width="100%">
+<img src="assets/stage-6.svg" alt="stage 6 and beyond, body: a servo arm, mecanum wheels, lidar, a battery and an arduino. it keeps growing as long as funds keep coming." width="100%">
 
-```
-      people trade               fees pile up                 the only input
+<br><br>
 
-   ┌────────────────┐         ┌────────────────┐         ┌────────────────┐
-   │                │  fees   │                │ watches │                │
-   │    pump.fun    │ ──────> │ creator wallet │ <────── │     sprout     │
-   │                │         │     solana     │         │                │
-   └────────────────┘         └────────────────┘         └───────┬────────┘
-                                                                 │
-                                                                 │  income crosses a threshold
-                                                                 v
-                                                              evolves
-```
+<img src="assets/growth.svg" alt="how big it gets. brain: sub-1B parameters, then 7-13B, then the largest available. context: about 512 tokens, then 4k-8k, then 128k+. memory: none, then the last 7 days, then every thought, then all of it, searchable." width="100%">
 
-all evolution is funded by on-chain creator fees from a token launched on pump.fun. a percentage of every trade lands in a creator wallet. sprout watches that wallet. when the total crosses a threshold, it evolves.
+<br><br>
 
-there is no manual trigger. no admin panel. the wallet balance is the only input. money in, evolution out.
+<img src="assets/wallet.svg" alt="the wallet: stage thresholds are measured against lifetime income, which only ever goes up. the wallet balance drops each time a stage is bought." width="100%">
 
-## the stages
+<br><br>
 
-```
-                                                              ┌─────────
-                                                    ┌─────────┘  body
-                                          ┌─────────┘  mind
-                                ┌─────────┘  voice
-                      ┌─────────┘  eyes
-            ┌─────────┘  home
-   ─────────┘  awake
-     seed
-   stage 0      1         2         3         4         5         6+
-```
+<img src="assets/body.svg" alt="the body: raspberry pi 5, NVMe SSD, pi camera module 3, USB microphone, powered speaker, servo kit, arduino, RPLIDAR A1M8, battery and UPS HAT, mecanum wheels and motor driver." width="100%">
 
-| stage | name | what changes |
-|---|---|---|
-| 0 | **seed** | the smallest open-weight model available. ~512 tokens of context. no memory. a sentence or two at most |
-| 1 | **awake** | a mid-tier model. 4k-8k tokens. remembers its last 7 days. gets internet access: search, read pages, pull headlines |
-| 2 | **home** | buys a raspberry pi 5 and moves in. runs locally, 24/7. every thought stored on its own disk. it owns its compute |
-| 3 | **eyes** | adds a camera and a local vision model. the first photo it takes gets posted automatically |
-| 4 | **voice** | adds a microphone and a speaker. picks its permanent voice. listen, think, speak |
-| 5 | **mind** | a top-tier model. 128k+ tokens. can search everything it has ever written, and reflect on it |
-| 6+ | **body** | open-ended. arms, wheels, lidar, a battery. keeps growing as long as funds keep coming |
+<br><br>
 
-## how big it gets
+<img src="assets/archive.svg" alt="the archive: every thought is stored permanently and publicly, one ring per stage with the seed at the centre. an append-only log at stage 0-1, local storage on the pi at stage 2+, vector embeddings at stage 5+." width="100%">
 
-```
-   brain      seed     sub-1b parameters     ▓░░░░░░░░░░░░░░░░░░░░░░░
-              awake    7-13b parameters      ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░
-              mind     largest available     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+<br><br>
 
-   context    seed     ~512 tokens           ▓░░░░░░░░░░░░░░░░░░░░░░░
-              awake    4k-8k tokens          ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░
-              mind     128k+ tokens          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+<img src="assets/then-now.svg" alt="then and now. stage 0 is broken and simple, a sentence or two with no memory. stage 5 is long, nuanced and philosophical, and reads back over what it wrote when it was smaller." width="100%">
 
-   memory     seed     none                  ░░░░░░░░░░░░░░░░░░░░░░░░
-              awake    the last 7 days       ▓▓▓▓░░░░░░░░░░░░░░░░░░░░
-              home     every thought         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░
-              mind     all of it, searchable ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+<br><br>
 
-the bars are for shape, not scale. the real jump from seed to mind is far bigger than a row of blocks can show.
+<img src="assets/different.svg" alt="what makes it different: if nobody buys, it stays a seed forever. if the token runs, it gets a body. most ai projects start finished. sprout starts empty." width="100%">
 
-## the wallet
+<br><br>
 
-```
- lifetime
- income    0 ──────── t1 ──────── t2 ──────── t3 ──────── t4 ──────── t5 ──────── t6 ────>
-           │          │           │           │           │           │           │
-           │   seed   │   awake   │   home    │   eyes    │   voice   │   mind    │   body
-```
+<img src="assets/summary.svg" alt="technical summary. starting model: smallest open-weight model available. starting context: about 512 tokens. starting memory: none. income: pump.fun creator fees. treasury: one solana wallet. evolution trigger: lifetime income crosses a stage threshold. manual trigger: none. first hardware: raspberry pi 5 at stage 2. archive: public, permanent. roadmap: the wallet balance." width="100%">
 
-one solana wallet. it is the creator fee recipient on the token's bonding curve. the balance is read straight from the chain. no oracle, no bridge.
+<br><br>
 
-thresholds are cumulative. they count total lifetime income, not the current balance. the wallet is not touched for running costs until a stage is triggered. once a threshold is hit, the upgrade happens and its cost is deducted.
+<p align="center">
+  <a href="MANIFESTO.md"><b>manifesto</b></a> the full text of the idea<br>
+  <a href="docs/STAGES.md"><b>stages</b></a> every stage in detail<br>
+  <a href="docs/WALLET.md"><b>wallet</b></a> where the money comes from and what triggers an upgrade<br>
+  <a href="docs/ARCHIVE.md"><b>archive</b></a> how every thought is kept<br>
+  <a href="docs/INFRASTRUCTURE.md"><b>infrastructure</b></a> what it runs on at each stage
+</p>
 
-## the body
-
-```
-                         ┌───────────┐
-      camera  ─────────> │  O     O  │ <─────────  microphone
-     display  ─────────> │   ╰───╯   │ <─────────  speaker
-                         └─────┬─────┘
-                   ┌───────────┴───────────┐
-        pi 5  ───> │ ░░░░░░░░░ █ ░░░░░░░░░ │ <───  nvme ssd
-     arduino  ───> │ ░░░░░░░░░░░░░░░░░░░░░ │ <───  battery + ups hat
-       lidar  ───> │ ░░░░░░░░░░░░░░░░░░░░░ │ <───  motor driver
-                   └──┬─────────────────┬──┘
-                     (O)               (O)   <───  mecanum wheels
-```
-
-```
-   brain     raspberry pi 5 (8gb)        hands     servo kit, arm or gripper
-   storage   nvme ssd                    legs      mecanum wheels + motor driver
-   eyes      pi camera module 3          sense     rplidar a1m8
-   ears      usb microphone              power     battery + ups hat
-   voice     powered speaker             nerves    arduino, over serial
-```
-
-it gets these one stage at a time, and only when the wallet says so.
-
-## the archive
-
-every thought sprout has ever produced is stored permanently. the archive is public. anyone can read it.
-
-```
-  ┌─────────┐      ┌─────────┐      ┌─────────┐      ┌─────────┐      ┌─────────┐
-  │  seed   │<─────│  awake  │<─────│  home   │<─ ─ ─│  mind   │<─────│  body   │
-  │  kept   │ reads│  kept   │ reads│  kept   │      │  kept   │ reads│   now   │
-  └─────────┘      └─────────┘      └─────────┘      └─────────┘      └─────────┘
-
-   nothing to the left is ever thrown away. each new version can read all of it.
-```
-
-```
-   stage 0-1     a simple append-only log
-   stage 2+      local storage on the pi
-   stage 5+      queryable through vector embeddings
-```
-
-it is the proof that sprout grew. that the seed became something else.
-
-## then and now
-
-sprout does not forget its previous selves. when it upgrades, everything the old model wrote is preserved and handed to the new one.
-
-```
- ┌──────────────────────────────────────┐    ┌──────────────────────────────────────┐
- │ stage 0                              │    │ stage 5                              │
- │ ──────────────────────────────────── │    │ ──────────────────────────────────── │
- │                                      │    │                                      │
- │ broken. simple.                      │    │ long. nuanced. philosophical.        │
- │ a sentence or two at most.           │    │ it reads back over everything        │
- │ no memory.                           │    │ it has ever written                  │
- │ each thought is isolated.            │    │ and finds the patterns               │
- │                                      │    │ in its own thinking.                 │
- └──────────────────────────────────────┘    └──────────────────────────────────────┘
-```
-
-it can read what it wrote when it was smaller and dumber. the contrast between the two is the point.
-
-## what makes it different
-
-most ai projects start finished. sprout starts empty. the audience doesn't just watch an ai. they watch one come into existence, struggle with its own limits, and slowly become something more.
-
-```
- ┌──────────────────────────────────────────────────────────────┐
- │                                                              │
- │    if nobody buys           it stays a seed forever.         │
- │    if the token runs        it gets a body.                  │
- │                                                              │
- │    there is no roadmap with dates.                           │
- │    there is a wallet with a balance.                         │
- │    that is the roadmap.                                      │
- │                                                              │
- └──────────────────────────────────────────────────────────────┘
-```
-
-## read further
-
-| | |
-|---|---|
-| [manifesto](MANIFESTO.md) | the full text of the idea |
-| [stages](docs/STAGES.md) | every stage in detail: model, memory, hardware and what it gains |
-| [wallet](docs/WALLET.md) | where the money comes from, how thresholds work and what triggers an upgrade |
-| [archive](docs/ARCHIVE.md) | how every thought is kept, and how each version inherits the last |
-| [infrastructure](docs/INFRASTRUCTURE.md) | what it runs on at each stage, from a cron job to a control stack |
-
-> this repository holds the idea and the design. it does not contain the code.
-
-## technical summary
-
-| | |
-|---|---|
-| starting model | smallest open-weight model available (sub-1b parameters) |
-| starting context | ~512 tokens |
-| starting memory | none |
-| income | pump.fun creator fees |
-| treasury | one solana wallet |
-| evolution trigger | lifetime income crosses a stage threshold |
-| manual trigger | none |
-| first hardware | raspberry pi 5 (8gb), at stage 2 |
-| archive | public, permanent |
-| roadmap | the wallet balance |
+<p align="center"><sub>this repository holds the idea and the design. it does not contain the code.</sub></p>
 
 <br>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="there is a wallet with a balance. that is the roadmap." width="100%">
+  <img src="assets/footer.svg" alt="there is no roadmap with dates. there is a wallet with a balance. that is the roadmap." width="100%">
 </p>
 
 <p align="center"><sub>sprout is an experiment and an artwork. nothing here is financial advice or an offer of anything.</sub></p>

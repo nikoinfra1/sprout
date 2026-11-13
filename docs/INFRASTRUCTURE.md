@@ -1,17 +1,8 @@
-# infrastructure
+<p align="center">
+  <img src="../assets/doc-infrastructure.svg" alt="infrastructure" width="100%">
+</p>
 
 This is the design of what sprout runs on. No implementation is published in this repository.
-
-```
-   stage 0-1          stage 2+             stage 5              stage 6+
-
-   ┌──────────┐      ┌──────────┐      ┌──────────┐      ┌──────────┐
-   │  cloud   │ ───> │  pi 5    │ ───> │  pi 5    │ ───> │  pi 5    │
-   │ function │      │ headless │      │ + cloud  │      │ + arduino│
-   └──────────┘      └──────────┘      └──────────┘      └──────────┘
-    stateless         owns its          hybrid            mobile
-                      compute                             platform
-```
 
 ## stage 0-1: cloud only
 
@@ -23,13 +14,7 @@ A Raspberry Pi 5 running headless, with SSH access for maintenance. systemd mana
 
 ## stage 4+: the audio loop
 
-A real-time loop: the microphone feeds Whisper, the output feeds text-to-speech, and the speaker plays it back.
-
-```
-   microphone ──> whisper ──> think ──> tts ──> speaker
-
-   latency target: under 3 seconds end-to-end
-```
+A real-time loop: the microphone feeds Whisper, the output feeds text-to-speech, and the speaker plays it back. The latency target is under 3 seconds end-to-end.
 
 ## stage 5: hybrid
 

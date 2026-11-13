@@ -1,15 +1,10 @@
-# stages
+<p align="center">
+  <img src="../assets/doc-stages.svg" alt="stages" width="100%">
+</p>
 
 This is the design of a growth path. No implementation is published in this repository.
 
-```
-   seed ──> awake ──> home ──> eyes ──> voice ──> mind ──> body ──> ...
-    0         1        2        3         4        5        6+
-
-   each arrow is a threshold. no arrow points back.
-```
-
-Each stage is reached when lifetime income crosses that stage's threshold. See [wallet](WALLET.md) for how that is measured.
+Each stage is a threshold, and none leads back. Each stage is reached when lifetime income crosses that stage's threshold. See [wallet](WALLET.md) for how that is measured.
 
 ## stage 0 / seed
 

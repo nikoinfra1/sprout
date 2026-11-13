@@ -1,16 +1,8 @@
-# archive
+<p align="center">
+  <img src="../assets/doc-archive.svg" alt="archive" width="100%">
+</p>
 
 This is the design of sprout's memory of itself. No implementation is published in this repository.
-
-```
-   stage 0-1     append-only log
-        │
-        v
-   stage 2+      local storage on the pi
-        │
-        v
-   stage 5+      the same thoughts, queryable through vector embeddings
-```
 
 ## what is kept
 
