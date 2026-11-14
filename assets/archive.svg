@@ -1,13 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 389" width="1200" height="389" role="img" aria-label="the archive: every version is kept and each new one can read all the earlier ones. stage 0-1 an append-only log, stage 2+ local storage on the pi, stage 5+ vector embeddings. public.">
-<rect width="1200" height="389" rx="10" fill="#000000"/>
-<rect x="0.5" y="0.5" width="1199" height="388" rx="10" fill="none" stroke="#2b2506"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 525" width="1200" height="525" role="img" aria-label="the archive: every version is kept and each new one can read all the earlier ones. stage 0-1 an append-only log, stage 2+ local storage on the pi, stage 5+ vector embeddings. public.">
+<rect width="1200" height="525" rx="10" fill="#000000"/>
+<rect x="0.5" y="0.5" width="1199" height="524" rx="10" fill="none" stroke="#2b2506"/>
 <g font-family="Consolas,'SF Mono',SFMono-Regular,Menlo,'Liberation Mono','Courier New',monospace" xml:space="preserve">
 <text x="60.0" y="73.2" font-size="20" textLength="168.0" lengthAdjust="spacing" fill="#facc15" font-weight="700">//&#160;the&#160;archive</text>
 <text x="84.0" y="127.6" font-size="20" textLength="984.0" lengthAdjust="spacing" fill="#facc15">[&#160;seed&#160;]&#160;&lt;-&#160;[&#160;awake&#160;]&#160;&lt;-&#160;[&#160;home&#160;]&#160;&lt;-&#160;[&#160;eyes&#160;]&#160;&lt;-&#160;[&#160;voice&#160;]&#160;&lt;-&#160;[&#160;mind&#160;]&#160;&lt;-&#160;[&#160;body&#160;]</text>
-<text x="84.0" y="182.0" font-size="20" textLength="816.0" lengthAdjust="spacing" fill="#facc15">every&#160;version&#160;is&#160;kept.&#160;each&#160;new&#160;one&#160;can&#160;read&#160;everything&#160;to&#160;its&#160;left.</text>
-<text x="84.0" y="236.4" font-size="20" textLength="492.0" lengthAdjust="spacing" fill="#facc15">stage&#160;0-1&#160;......&#160;a&#160;simple&#160;append-only&#160;log</text>
-<text x="84.0" y="263.6" font-size="20" textLength="480.0" lengthAdjust="spacing" fill="#facc15">stage&#160;2+&#160;.......&#160;local&#160;storage&#160;on&#160;the&#160;pi</text>
-<text x="84.0" y="290.8" font-size="20" textLength="624.0" lengthAdjust="spacing" fill="#facc15">stage&#160;5+&#160;.......&#160;queryable&#160;through&#160;vector&#160;embeddings</text>
-<text x="60.0" y="345.2" font-size="20" textLength="504.0" lengthAdjust="spacing" fill="#9c8212">the&#160;archive&#160;is&#160;public.&#160;anyone&#160;can&#160;read&#160;it.</text>
+<text x="132.0" y="154.8" font-size="20" textLength="900.0" lengthAdjust="spacing" fill="#facc15">|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|</text>
+<text x="132.0" y="182.0" font-size="20" textLength="900.0" lengthAdjust="spacing" fill="#facc15">v&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;v</text>
+<text x="84.0" y="209.2" font-size="20" textLength="984.0" lengthAdjust="spacing" fill="#facc15">+--------------------------------------------------------------------------------+</text>
+<text x="84.0" y="236.4" font-size="20" textLength="984.0" lengthAdjust="spacing" fill="#facc15">|&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;every&#160;thought&#160;.&#160;every&#160;version&#160;.&#160;appended&#160;.&#160;never&#160;cut&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|</text>
+<text x="84.0" y="263.6" font-size="20" textLength="984.0" lengthAdjust="spacing" fill="#facc15">+--------------------------------------------------------------------------------+</text>
+<text x="84.0" y="318.0" font-size="20" textLength="816.0" lengthAdjust="spacing" fill="#facc15">every&#160;version&#160;is&#160;kept.&#160;each&#160;new&#160;one&#160;can&#160;read&#160;everything&#160;to&#160;its&#160;left.</text>
+<text x="84.0" y="372.4" font-size="20" textLength="492.0" lengthAdjust="spacing" fill="#facc15">stage&#160;0-1&#160;......&#160;a&#160;simple&#160;append-only&#160;log</text>
+<text x="84.0" y="399.6" font-size="20" textLength="720.0" lengthAdjust="spacing" fill="#facc15">stage&#160;2+&#160;.......&#160;local&#160;storage&#160;on&#160;the&#160;pi&#160;(sqlite&#160;on&#160;the&#160;ssd)</text>
+<text x="84.0" y="426.8" font-size="20" textLength="624.0" lengthAdjust="spacing" fill="#facc15">stage&#160;5+&#160;.......&#160;queryable&#160;through&#160;vector&#160;embeddings</text>
+<text x="60.0" y="481.2" font-size="20" textLength="504.0" lengthAdjust="spacing" fill="#9c8212">the&#160;archive&#160;is&#160;public.&#160;anyone&#160;can&#160;read&#160;it.</text>
 </g>
 </svg>

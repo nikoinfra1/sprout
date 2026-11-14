@@ -1,11 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" role="img" aria-label="if nobody buys, it stays a seed forever. if the token runs, it gets a body. there is no roadmap with dates. there is a wallet with a balance. that is the roadmap.">
-<rect width="1200" height="270" rx="10" fill="#000000"/>
-<rect x="0.5" y="0.5" width="1199" height="269" rx="10" fill="none" stroke="#2b2506"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 509" width="1200" height="509" role="img" aria-label="if nobody buys, it stays a seed forever. if the token runs, it gets a body. there is no roadmap with dates. there is a wallet with a balance. that is the roadmap.">
+<rect width="1200" height="509" rx="10" fill="#000000"/>
+<rect x="0.5" y="0.5" width="1199" height="508" rx="10" fill="none" stroke="#2b2506"/>
 <g font-family="Consolas,'SF Mono',SFMono-Regular,Menlo,'Liberation Mono','Courier New',monospace" xml:space="preserve">
-<text x="283.2" y="75.9" font-size="22" textLength="633.6" lengthAdjust="spacing" fill="#facc15">if&#160;nobody&#160;buys&#160;........&#160;it&#160;stays&#160;a&#160;seed&#160;forever.</text>
-<text x="283.2" y="105.8" font-size="22" textLength="514.8" lengthAdjust="spacing" fill="#facc15">if&#160;the&#160;token&#160;runs&#160;.....&#160;it&#160;gets&#160;a&#160;body.</text>
-<text x="283.2" y="165.7" font-size="22" textLength="409.2" lengthAdjust="spacing" fill="#9c8212">there&#160;is&#160;no&#160;roadmap&#160;with&#160;dates.</text>
-<text x="283.2" y="195.6" font-size="22" textLength="435.6" lengthAdjust="spacing" fill="#9c8212">there&#160;is&#160;a&#160;wallet&#160;with&#160;a&#160;balance.</text>
-<text x="283.2" y="225.5" font-size="22" textLength="264.0" lengthAdjust="spacing" fill="#facc15" font-weight="700">that&#160;is&#160;the&#160;roadmap.</text>
+<text x="824.4" y="75.9" font-size="22" textLength="66.0" lengthAdjust="spacing" fill="#facc15">.*.*.</text>
+<text x="824.4" y="105.8" font-size="22" textLength="79.2" lengthAdjust="spacing" fill="#facc15">*(o)))</text>
+<text x="837.6" y="135.8" font-size="22" textLength="39.6" lengthAdjust="spacing" fill="#facc15">\|/</text>
+<text x="850.8" y="165.7" font-size="22" textLength="13.2" lengthAdjust="spacing" fill="#facc15">|</text>
+<text x="811.2" y="195.6" font-size="22" textLength="105.6" lengthAdjust="spacing" fill="#facc15">d.-+-.-&lt;</text>
+<text x="824.4" y="225.5" font-size="22" textLength="66.0" lengthAdjust="spacing" fill="#facc15">|:::|</text>
+<text x="296.4" y="255.4" font-size="22" textLength="607.2" lengthAdjust="spacing" fill="#facc15">(.)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(O)-(O)</text>
+<text x="256.8" y="285.4" font-size="22" textLength="686.4" lengthAdjust="spacing" fill="#9c8212">====================================================</text>
+<text x="256.8" y="315.3" font-size="22" textLength="633.6" lengthAdjust="spacing" fill="#facc15">if&#160;nobody&#160;buys&#160;........&#160;it&#160;stays&#160;a&#160;seed&#160;forever.</text>
+<text x="256.8" y="345.2" font-size="22" textLength="514.8" lengthAdjust="spacing" fill="#facc15">if&#160;the&#160;token&#160;runs&#160;.....&#160;it&#160;gets&#160;a&#160;body.</text>
+<text x="256.8" y="405.0" font-size="22" textLength="409.2" lengthAdjust="spacing" fill="#9c8212">there&#160;is&#160;no&#160;roadmap&#160;with&#160;dates.</text>
+<text x="256.8" y="435.0" font-size="22" textLength="435.6" lengthAdjust="spacing" fill="#9c8212">there&#160;is&#160;a&#160;wallet&#160;with&#160;a&#160;balance.</text>
+<text x="256.8" y="464.9" font-size="22" textLength="264.0" lengthAdjust="spacing" fill="#facc15" font-weight="700">that&#160;is&#160;the&#160;roadmap.</text>
 </g>
 </svg>

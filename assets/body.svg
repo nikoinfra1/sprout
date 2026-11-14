@@ -1,17 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 443" width="1200" height="443" role="img" aria-label="the body: camera, display, microphone, speaker, raspberry pi 5, nvme ssd, arduino, lidar, battery and ups hat, motor driver, mecanum wheels.">
-<rect width="1200" height="443" rx="10" fill="#000000"/>
-<rect x="0.5" y="0.5" width="1199" height="442" rx="10" fill="none" stroke="#2b2506"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 525" width="1200" height="525" role="img" aria-label="the body: camera, display, microphone, speaker, raspberry pi 5, nvme ssd, arduino, lidar, battery and ups hat, servo arm, mecanum wheels and motor driver.">
+<rect width="1200" height="525" rx="10" fill="#000000"/>
+<rect x="0.5" y="0.5" width="1199" height="524" rx="10" fill="none" stroke="#2b2506"/>
 <g font-family="Consolas,'SF Mono',SFMono-Regular,Menlo,'Liberation Mono','Courier New',monospace" xml:space="preserve">
 <text x="60.0" y="73.2" font-size="20" textLength="132.0" lengthAdjust="spacing" fill="#facc15" font-weight="700">//&#160;the&#160;body</text>
-<text x="348.0" y="127.6" font-size="20" textLength="132.0" lengthAdjust="spacing" fill="#facc15">.---------.</text>
-<text x="144.0" y="154.8" font-size="20" textLength="588.0" lengthAdjust="spacing" fill="#facc15">camera&#160;&#160;------&gt;&#160;&#160;|&#160;&#160;O&#160;&#160;&#160;O&#160;&#160;|&#160;&#160;&lt;------&#160;&#160;microphone</text>
-<text x="132.0" y="182.0" font-size="20" textLength="564.0" lengthAdjust="spacing" fill="#facc15">display&#160;&#160;------&gt;&#160;&#160;|&#160;&#160;&#160;---&#160;&#160;&#160;|&#160;&#160;&lt;------&#160;&#160;speaker</text>
-<text x="348.0" y="209.2" font-size="20" textLength="132.0" lengthAdjust="spacing" fill="#facc15">'----+----'</text>
-<text x="300.0" y="236.4" font-size="20" textLength="228.0" lengthAdjust="spacing" fill="#facc15">.--------+--------.</text>
-<text x="168.0" y="263.6" font-size="20" textLength="540.0" lengthAdjust="spacing" fill="#facc15">pi&#160;5&#160;&#160;--&gt;&#160;&#160;|&#160;&#160;[::::::::::::]&#160;|&#160;&#160;&lt;--&#160;&#160;nvme&#160;ssd</text>
-<text x="132.0" y="290.8" font-size="20" textLength="684.0" lengthAdjust="spacing" fill="#facc15">arduino&#160;&#160;--&gt;&#160;&#160;|&#160;&#160;[::::::::::::]&#160;|&#160;&#160;&lt;--&#160;&#160;battery&#160;+&#160;ups&#160;hat</text>
-<text x="156.0" y="318.0" font-size="20" textLength="600.0" lengthAdjust="spacing" fill="#facc15">lidar&#160;&#160;--&gt;&#160;&#160;|_________________|&#160;&#160;&lt;--&#160;&#160;motor&#160;driver</text>
-<text x="324.0" y="345.2" font-size="20" textLength="456.0" lengthAdjust="spacing" fill="#facc15">(O)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(O)&#160;&#160;&#160;&#160;&lt;--&#160;&#160;mecanum&#160;wheels</text>
-<text x="60.0" y="399.6" font-size="20" textLength="816.0" lengthAdjust="spacing" fill="#9c8212">it&#160;gets&#160;these&#160;one&#160;stage&#160;at&#160;a&#160;time,&#160;and&#160;only&#160;when&#160;the&#160;wallet&#160;says&#160;so.</text>
+<text x="384.0" y="127.6" font-size="20" textLength="60.0" lengthAdjust="spacing" fill="#facc15">\&#160;|&#160;/</text>
+<text x="348.0" y="154.8" font-size="20" textLength="132.0" lengthAdjust="spacing" fill="#facc15">.---------.</text>
+<text x="144.0" y="182.0" font-size="20" textLength="588.0" lengthAdjust="spacing" fill="#facc15">camera&#160;&#160;------&gt;&#160;&#160;|&#160;(O)&#160;(O)&#160;|&#160;&#160;&lt;------&#160;&#160;microphone</text>
+<text x="132.0" y="209.2" font-size="20" textLength="564.0" lengthAdjust="spacing" fill="#facc15">display&#160;&#160;------&gt;&#160;&#160;|&#160;&#160;\___/&#160;&#160;|&#160;&#160;&lt;------&#160;&#160;speaker</text>
+<text x="348.0" y="236.4" font-size="20" textLength="132.0" lengthAdjust="spacing" fill="#facc15">'----+----'</text>
+<text x="408.0" y="263.6" font-size="20" textLength="12.0" lengthAdjust="spacing" fill="#facc15">|</text>
+<text x="300.0" y="290.8" font-size="20" textLength="228.0" lengthAdjust="spacing" fill="#facc15">.--------+--------.</text>
+<text x="168.0" y="318.0" font-size="20" textLength="540.0" lengthAdjust="spacing" fill="#facc15">pi&#160;5&#160;&#160;--&gt;&#160;&#160;|&#160;[::::]&#160;o&#160;o&#160;[==]&#160;|&#160;&#160;&lt;--&#160;&#160;nvme&#160;ssd</text>
+<text x="132.0" y="345.2" font-size="20" textLength="684.0" lengthAdjust="spacing" fill="#facc15">arduino&#160;&#160;--&gt;&#160;&#160;|&#160;[::::]&#160;-----&#160;[]&#160;|&#160;&#160;&lt;--&#160;&#160;battery&#160;+&#160;ups&#160;hat</text>
+<text x="156.0" y="372.4" font-size="20" textLength="564.0" lengthAdjust="spacing" fill="#facc15">lidar&#160;&#160;--&gt;&#160;&#160;|_________________|--&lt;&#160;&#160;&#160;&#160;servo&#160;arm</text>
+<text x="312.0" y="399.6" font-size="20" textLength="648.0" lengthAdjust="spacing" fill="#facc15">/(O)\&#160;&#160;&#160;&#160;&#160;&#160;&#160;/(O)\&#160;&#160;&#160;&lt;--&#160;&#160;mecanum&#160;wheels&#160;+&#160;motor&#160;driver</text>
+<text x="120.0" y="426.8" font-size="20" textLength="516.0" lengthAdjust="spacing" fill="#facc15">~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</text>
+<text x="60.0" y="481.2" font-size="20" textLength="816.0" lengthAdjust="spacing" fill="#9c8212">it&#160;gets&#160;these&#160;one&#160;stage&#160;at&#160;a&#160;time,&#160;and&#160;only&#160;when&#160;the&#160;wallet&#160;says&#160;so.</text>
 </g>
 </svg>
